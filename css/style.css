@@ -1,0 +1,34 @@
+.header {
+  background: linear-gradient(rgba(0, 0, 0, 0.79), rgba(0, 0, 0, 0.79));
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  justify-content: center;
+  align-content: center;
+  display: block;
+  color: white;
+  text-decoration: none;
+  font-size: 4vw;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  display: block;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  font-family: Arial, Helvetica;
+  margin: -0.3ch;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  max-width: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+.title {
+  text-align: left;
+  font-size: 2vw;
+  margin-left: 5vw;
+}

@@ -1,0 +1,82 @@
+body {
+  background-image: url(/images/paris.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  display: block;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  font-family: Arial, Helvetica;
+  margin: -0.3ch;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  max-width: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+.header {
+  background: linear-gradient(rgba(0, 0, 0, 0.79), rgba(0, 0, 0, 0.79));
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  justify-content: center;
+  align-content: center;
+  display: block;
+  color: white;
+  text-decoration: none;
+  opacity: calc(90%);
+  font-size: 4vw;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+}
+.portal_select {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  opacity: 0.65;
+  height: 7.25vh;
+  max-width: 100%;
+}
+.portal_select:hover {
+  opacity: 0.95;
+  transition-duration: 0.3s;
+}
+#media_portal {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 3vw;
+  background: black;
+}
+#news_portal {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 3vw;
+  background: black;
+}
+#classwork_portal {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 3vw;
+  background: black;
+}
+#anki_portal {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 3vw;
+  background: black;
+}
+#grammar_portal {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 3vw;
+  background: black;
+}
