@@ -8,7 +8,7 @@
   display: block;
   color: white;
   text-decoration: none;
-  font-size: 4vw;
+  font-size: 6vh;
   text-align: center;
   -webkit-font-smoothing: antialiased;
 }
@@ -29,6 +29,25 @@ body {
 }
 .title {
   text-align: left;
-  font-size: 2vw;
+  font-size: 5vh;
+  margin-left: 5vh;
+}
+.youtube {
+  text-align: left;
+  font-size: 5vh;
+  text-decoration: underline;
   margin-left: 5vw;
+}
+.anki {
+  position: relative;
+  display: block;
+  margin: auto;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3vh;
+}
+.download {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3.5vh;
 }

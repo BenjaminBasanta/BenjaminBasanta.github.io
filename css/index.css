@@ -4,6 +4,7 @@ body {
   background-size: cover;
   background-position: top;
   display: block;
+  position: relative;
   justify-content: center;
   align-content: center;
   text-align: center;
@@ -11,6 +12,8 @@ body {
   margin: -0.3ch;
   letter-spacing: 0.02em;
   font-weight: 400;
+  width: auto;
+  height: auto;
   max-width: 100%;
   -webkit-font-smoothing: antialiased;
 }
@@ -25,7 +28,7 @@ body {
   color: white;
   text-decoration: none;
   opacity: calc(90%);
-  font-size: 4vw;
+  font-size: 6vh;
   text-align: center;
   -webkit-font-smoothing: antialiased;
 }
@@ -38,7 +41,7 @@ body {
   align-content: center;
   text-align: center;
   opacity: 0.65;
-  height: 7.25vh;
+  height: 5.25vh;
   max-width: 100%;
 }
 .portal_select:hover {
@@ -49,34 +52,34 @@ body {
   color: white;
   text-decoration: none;
   text-align: center;
-  font-size: 3vw;
+  font-size: 4vh;
   background: black;
 }
 #news_portal {
   color: white;
   text-decoration: none;
   text-align: center;
-  font-size: 3vw;
+  font-size: 4vh;
   background: black;
 }
 #classwork_portal {
   color: white;
   text-decoration: none;
   text-align: center;
-  font-size: 3vw;
+  font-size: 4vh;
   background: black;
 }
 #anki_portal {
   color: white;
   text-decoration: none;
   text-align: center;
-  font-size: 3vw;
+  font-size: 4vh;
   background: black;
 }
 #grammar_portal {
   color: white;
   text-decoration: none;
   text-align: center;
-  font-size: 3vw;
+  font-size: 4vh;
   background: black;
 }
